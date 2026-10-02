@@ -78,3 +78,5 @@ and Telecommunications.
 ## Project Status
 
 Version 1.0 - Initial monitoring functionality implemented.
+
+## Git Branch Practice
