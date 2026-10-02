@@ -74,3 +74,7 @@ and Telecommunications.
 - Improve memory monitoring.
 - Add automated tests.
 - Support additional services.
+
+## Project Status
+
+Version 1.0 - Initial monitoring functionality implemented.
